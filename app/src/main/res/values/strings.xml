@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ForTest</string>
+    <string name="get_data">정보 요청</string>
+</resources>
